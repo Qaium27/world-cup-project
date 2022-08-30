@@ -86,7 +86,8 @@
 }
 .footer-title{
     text-align: center;
-    padding: 80px;
+    font-size: 40px;
+    padding: 60px;
 }
 .footer-menu{
     display: flex;
@@ -100,6 +101,8 @@
     color: white;
 }
 
+
+/* media query */
 
 @media screen (max-width:768px){
     .container{
